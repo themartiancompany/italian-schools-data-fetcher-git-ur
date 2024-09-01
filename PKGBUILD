@@ -11,7 +11,7 @@ _local=false
 _proj="hip"
 _pkgname=italian-schools-data-fetcher
 pkgname="${_pkgname}-git"
-pkgver="0.0.0.0.0.0.0.0.0.0.0.0.0.1.1".r0.g"6237525db61c2a57dcd60fe04043ec43437c9dda"
+pkgver="0.0.0.0.0.0.0.0.0.0.0.0.0.1.1.1".r0.g"e18d36d2ad2742dea9cfff91a0a42b82dd5303c1"
 pkgrel=1
 _pkgdesc=(
   "Retrieve Italian schools data from MIUR."

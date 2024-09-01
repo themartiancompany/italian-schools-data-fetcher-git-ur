@@ -1,6 +1,6 @@
 pkgbase = italian-schools-data-fetcher-git
 	pkgdesc = Retrieve Italian schools data from MIUR.
-	pkgver = 0.0.0.0.0.0.0.0.0.0.0.0.0.1.1.r0.g6237525db61c2a57dcd60fe04043ec43437c9dda
+	pkgver = 0.0.0.0.0.0.0.0.0.0.0.0.0.1.1.1.r0.ge18d36d2ad2742dea9cfff91a0a42b82dd5303c1
 	pkgrel = 1
 	url = https://github.com/themartiancompany/italian-schools-data-fetcher
 	arch = any
@@ -12,7 +12,7 @@ pkgbase = italian-schools-data-fetcher-git
 	makedepends = curl
 	makedepends = jq
 	depends = libcrash-bash
-	provides = italian-schools-data-fetcher=0.0.0.0.0.0.0.0.0.0.0.0.0.1.1.r0.g6237525db61c2a57dcd60fe04043ec43437c9dda
+	provides = italian-schools-data-fetcher=0.0.0.0.0.0.0.0.0.0.0.0.0.1.1.1.r0.ge18d36d2ad2742dea9cfff91a0a42b82dd5303c1
 	conflicts = italian-schools-data-fetcher
 	source = italian-schools-data-fetcher.tar.gz::https://github.com/themartiancompany/italian-schools-data-fetcher/archive/refs/heads/master.tar.gz
 	sha256sums = SKIP
